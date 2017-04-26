@@ -12,6 +12,6 @@
 
 Лабораторная 6. SVG анимация. (<a href="http://gencyan.github.io/Лр 6/SVG.html" target="_blank">клик</a>)
 
-Лабораторная 7. Буклет в формате ePub. (еще не готово)
+Лабораторная 7. Буклет в формате ePub. (<a href="http://gencyan.github.io/Лр 7/Положення.epub" target="_blank">клик</a>)
 
-Лабораторная 8. MS Word макрос. (еще не готово)
+Лабораторная 8. MS Word макрос. (готово)
